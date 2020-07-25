@@ -1,4 +1,4 @@
-import { camelToDashed as dashed } from "https://raw.githubusercontent.com/molbazsa/javascript/master/utils.js";
+import { camelToDashed as dashed } from "https://molbazsa.github.io/javascript/utils.js";
 
 const cookieStorage = {
   setItem: (key, value, options = {}) => {
